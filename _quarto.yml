@@ -1,0 +1,10 @@
+project: 
+  type: website
+  
+website: 
+  title: "First Quarto Website for DS 350"
+  navbar: 
+    left: 
+      - about_first_quarto_website.qmd
+      - computations.qmd
+      
